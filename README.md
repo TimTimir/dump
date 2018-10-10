@@ -1,2 +1,2 @@
 # dump
-This is just a dump of ideas and experiments
+This project is used for educational purposes to train young or less qualified employees.
