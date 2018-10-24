@@ -1,4 +1,4 @@
-package aziz.prakash.primitive5p1;
+package aziz.prakash.chapter5.primitive5p1;
 
 class BitsOperations {
 
