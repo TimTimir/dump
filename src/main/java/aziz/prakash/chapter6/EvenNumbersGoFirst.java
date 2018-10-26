@@ -1,4 +1,4 @@
-package aziz.prakash.chapter6.arrays6p1;
+package aziz.prakash.chapter6;
 
 public class EvenNumbersGoFirst {
 
