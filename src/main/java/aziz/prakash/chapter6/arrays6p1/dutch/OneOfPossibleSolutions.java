@@ -1,8 +1,8 @@
 package aziz.prakash.chapter6.arrays6p1.dutch;
 
-public class OneOfPossibleSolutions {
+public class OneOfPossibleSolutions implements DutchSolution {
 
-    public static void sortColors(int[] nums) {
+    public void sortColors(int[] nums) {
         if (nums == null || nums.length <= 1) {
             return;
         }
@@ -21,7 +21,7 @@ public class OneOfPossibleSolutions {
             }
     }
 
-    private static void swap(int[] arr, int i, int j) {
+    private void swap(int[] arr, int i, int j) {
         int tmp = arr[i];
         arr[i] = arr[j];
         arr[j] = tmp;
